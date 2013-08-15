@@ -22,3 +22,10 @@ Then add the configuration parameters to your settings::
     UBIVOX_API_URL = "https://sample.clients.ubivox.com/xmlrpc/"
 
     EMAIL_BACKEND = "django_ubivox_email.backend.UbivoxEmailBackend"
+
+References
+==========
+
+- `Ubivox API Documentation <https://kb.ubivox.com/>`_
+- `Get a free Ubivox account (10 day trial) <https://www.ubivox.com/>`_
+- `Django e-mail backends <https://docs.djangoproject.com/en/dev/topics/email/>`_
