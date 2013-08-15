@@ -26,6 +26,6 @@ Then add the configuration parameters to your settings::
 References
 ==========
 
-- `Ubivox API Documentation <https://kb.ubivox.com/>`_
+- `Ubivox API Documentation <https://kb.ubivox.com/api/latest/html/>`_
 - `Get a free Ubivox account (10 day trial) <https://www.ubivox.com/>`_
 - `Django e-mail backends <https://docs.djangoproject.com/en/dev/topics/email/>`_
